@@ -805,10 +805,10 @@ i[class*="flaticon-"] {
 .filter-style2 li,
 .filter-style1 li{
 	color:#000;
-	font-size: 18px;
+	font-size: 15px;
 	text-transform: capitalize;
 	font-weight: 500;
-	margin: 0 20px;
+	margin: 0 12px;
 	padding: 12px 0;
 	position: relative;
 	border-radius:0;

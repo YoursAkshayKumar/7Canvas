@@ -13,8 +13,8 @@
 					<div class="breadcrumb-row">
 						<ul class="list-inline">
 							<li><a href="index.php"><i class="fas fa-home"></i></a></li>
-							<li>Portfolio</li>
-							<li>Portfolio Filter</li>
+							<li>Projects</li>
+							<li>Projects Filter</li>
 						</ul>
 					</div>
 					<!-- Breadcrumb row END -->
@@ -34,10 +34,12 @@
 							<div class="site-filters filter-style1 clearfix m-b20">
 								<ul class="filters" data-toggle="buttons">
 									<li data-filter="" class="btn active"><input type="radio"><a href="#"><span>All</span></a></li>
-									<li data-filter="abstract" class="btn"><input type="radio"><a href="#"><span>Abstract</span></a></li>
-									<li data-filter="food" class="btn"><input type="radio"><a href="#"><span>Food</span></a></li>
-									<li data-filter="mockup" class="btn"><input type="radio"><a href="#"><span>Mockup</span></a></li>
-									<li data-filter="technology" class="btn"><input type="radio"><a href="#"><span>Technology</span></a></li>
+									<li data-filter="abstract" class="btn"><input type="radio"><a href="#"><span>RESIDENTIAL & COMMERCIAL</span></a></li>
+									<li data-filter="food" class="btn"><input type="radio"><a href="#"><span>TOWNSHIPS & GROUP HOUSING</span></a></li>
+									<li data-filter="mockup" class="btn"><input type="radio"><a href="#"><span>INTERIORS & RENOVATION</span></a></li>
+									<li data-filter="technology" class="btn"><input type="radio"><a href="#"><span>BUILDING APPROVAL & COMPOUNING</span></a></li>
+									<li data-filter="abstract" class="btn"><input type="radio"><a href="#"><span>URBANIZATION</span></a></li>
+									<li data-filter="food" class="btn"><input type="radio"><a href="#"><span>VISUALIZATION</span></a></li>
 								</ul>
 							</div>
 						</div>

@@ -67,7 +67,13 @@
 							<a href="index.php"><img src="images/logo.png" alt=""></a>
 						</div>
 						<ul class="nav navbar-nav">                                                                    					
-                            <li><a href="about-us.php" class="sub-menu-down">About Us</a></li>
+                            <!-- <li><a href="about-us.php" class="sub-menu-down">About Us</a></li> -->
+							<li class="sub-menu-down"><a href="javascript:void(0);">About Us</a>
+								<ul class="sub-menu">
+									<li><a href="about-company.php" class="dez-page active">About Company</a></li>
+									<li><a href="our-visionaries.php" class="dez-page">Our Visionaries</a></li>
+								</ul>
+							</li>
                             <li><a href="services.php" class="sub-menu-down">Services</a></li>
                             <li><a href="blog-list.php" class="dez-page">Blogs</a></li>
                             <li><a href="projects.php" class="dez-page">Projects</a></li>							
@@ -80,7 +86,7 @@
 								<li><a href="javascript:void(0);"><i class="fab fa-google-plus-g"></i></a></li>
 								<li><a href="javascript:void(0);"><i class="fab fa-facebook-f"></i></a></li>
 							</ul>
-							<p class="copyright-head">© 2023 Archia</p>
+							<p class="copyright-head">©<?= date("Y"); ?> 7Canvas</p>
 						</div>
 					</div>
 					

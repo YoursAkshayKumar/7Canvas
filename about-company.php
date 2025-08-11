@@ -8,14 +8,14 @@
         <div class="dlab-bnr-inr dlab-bnr-inr-lg overlay-primary-middle bg-pt" style="background-image:url(images/about-us-banner.jpg);">
             <div class="container">
                 <div class="dlab-bnr-inr-entry">
-                    <h1 class="text-white">About Us</h1>
+                    <h1 class="text-white">About Company</h1>
 					<p>Stay informed on our news or events!</p>
 					<!-- Breadcrumb row -->
 					<div class="breadcrumb-row">
 						<ul class="list-inline">
 							<li><a href="index.php"><i class="fas fa-home"></i></a></li>
 							<li>Pages</li>
-							<li>About Us 2</li>
+							<li>About Company</li>
 						</ul>
 					</div>
 					<!-- Breadcrumb row END -->

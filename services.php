@@ -29,7 +29,7 @@
 						<div class="col-lg-12 wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.2s">
 							<div class="blog-post blog-half blog-half1">
 								<div class="blog-media">
-									<img src="images/blog/blog/pic7.jpg" alt="">
+									<img src="images/services/a6.jpg" alt="">
 								</div>
 								<div class="post-info">
 									<div class="dlab-post-title left">
@@ -45,9 +45,9 @@
 											<li>Climate-responsive and contextual architecture</li>
 										</ul>
 									</div>		
-									<div class="dlab-post-readmore blog-share"> 
+									<!-- <div class="dlab-post-readmore blog-share"> 
 										<a href="projects.php" title="View Projects" rel="bookmark" class="btn outline outline-2 button-lg black radius-xl btn-aware">View Projects<span></span></a>		
-									</div>						
+									</div>						 -->
 								</div>
 							</div>
 						</div>
@@ -67,19 +67,19 @@
 											<li>Occupancy/Completion certificate assistance.</li>
 										</ul>
 									</div>
-									<div class="dlab-post-readmore blog-share"> 
+									<!-- <div class="dlab-post-readmore blog-share"> 
 										<a href="projects.php" title="View Projects" rel="bookmark" class="btn outline outline-2 button-lg black radius-xl btn-aware">View Projects<span></span></a>		
-									</div>
+									</div> -->
 								</div>
 								<div class="blog-media">
-									<img src="images/blog/blog/pic8.jpg" alt="">
+									<img src="images/services/a2.jpg" alt="">
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-12 wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.6s">
 							<div class="blog-post blog-half blog-half1">
 								<div class="blog-media">
-									<img src="images/blog/blog/pic9.jpg" alt="">
+									<img src="images/services/a3.jpg" alt="">
 								</div>
 								<div class="post-info">
 									<div class="dlab-post-title left">
@@ -95,9 +95,9 @@
 											<li>BIM-based visual documentation</li>
 										</ul>
 									</div>
-									<div class="dlab-post-readmore blog-share"> 
+									<!-- <div class="dlab-post-readmore blog-share"> 
 										<a href="projects.php" title="View Projects" rel="bookmark" class="btn outline outline-2 button-lg black radius-xl btn-aware">View Projects<span></span></a>		
-									</div>
+									</div> -->
 								</div>
 							</div>
 						</div>
@@ -115,19 +115,19 @@
 										<li>Feasibility studies and urban diagnostics</li>
 										<li>Public realm and community-based planning</li>
 									</div>
-									<div class="dlab-post-readmore blog-share"> 
+									<!-- <div class="dlab-post-readmore blog-share"> 
 										<a href="projects.php" title="View Projects" rel="bookmark" class="btn outline outline-2 button-lg black radius-xl btn-aware">View Projects<span></span></a>		
-									</div>
+									</div> -->
 								</div>
 								<div class="blog-media">
-									<img src="images/blog/blog/pic10.jpg" alt="">
+									<img src="images/services/a4.jpg" alt="">
 								</div>
 							</div>
 						</div>
 							<div class="col-lg-12 wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.6s">
 							<div class="blog-post blog-half blog-half1">
 								<div class="blog-media">
-									<img src="images/blog/blog/pic9.jpg" alt="">
+									<img src="images/services/a5.jpg" alt="">
 								</div>
 								<div class="post-info">
 									<div class="dlab-post-title left">
@@ -141,9 +141,9 @@
 										<li>Labour tracking and safety protocol enforcement</li>
 										<li>Snagging and final handover support</li>
 									</div>
-									<div class="dlab-post-readmore blog-share"> 
+									<!-- <div class="dlab-post-readmore blog-share"> 
 										<a href="projects.php" title="View Projects" rel="bookmark" class="btn outline outline-2 button-lg black radius-xl btn-aware">View Projects<span></span></a>		
-									</div>
+									</div> -->
 								</div>
 							</div>
 						</div>
@@ -161,25 +161,25 @@
 										<li>Custom cabinetry and soft furnishing integration</li>
 										<li>On-site styling and supervision</li>
 									</div>
-									<div class="dlab-post-readmore blog-share"> 
+									<!-- <div class="dlab-post-readmore blog-share"> 
 										<a href="projects.php" title="View Projects" rel="bookmark" class="btn outline outline-2 button-lg black radius-xl btn-aware">View Projects<span></span></a>		
-									</div>
+									</div> -->
 								</div>
 								<div class="blog-media">
-									<img src="images/blog/blog/pic10.jpg" alt="">
+									<img src="images/services/a1.jpg" alt="">
 								</div>
 							</div>
 						</div>
 					</div>
 					<!-- Pagination -->
-                    <div class="pagination-bx radius clearfix text-center">
+                    <!-- <div class="pagination-bx radius clearfix text-center">
 						<ul class="pagination">
 							<li class="active"><a href="javascript:void(0);">1</a></li>
 							<li><a href="javascript:void(0);">2</a></li>
 							<li><a href="javascript:void(0);">3</a></li>
 							<li><a href="javascript:void(0);">18</a></li>
 						</ul>
-					</div>
+					</div> -->
 					<!-- Pagination END -->
 				</div>
 			</div>

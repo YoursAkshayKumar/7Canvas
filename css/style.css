@@ -16630,3 +16630,20 @@ pre {
 .theme-dark .bg-white{
 	background-color: var(--theme-dark) !important;
 }
+
+.dlab-post-text li{
+    line-height: 1.8 !important;
+}
+
+span.sub-head{
+    display: block;
+    font-size: 17px;
+}
+
+.describe-about-info-name{
+    text-align: center;
+}
+
+.describe-about-info-name h2{
+    font-size: 22px !important;
+}

@@ -24,287 +24,76 @@
         </div>
         <!-- inner page banner END -->
         <div class="content-block">
-            <!-- Project Info -->
-			<div class="section-full content-inner">
-				<div class="container">
-					<div class="row">
-						<div class="col-lg-6 col-md-6 wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
-							<div class="video-info">
-								<img src="images/about/pic1.png" alt="">
-								<div class="video-bx2">
-									<div class="video-play">
-										<a href="https://www.youtube.com/watch?v=Dj6CKxQue7U" class="popup-youtube video"><i class="fas fa-play"></i></a>
-										<p class="text-black text-uppercase m-b0">Play Company video </p>
-									</div>
-									<h2 class="text-black years-date">26</h2>
-									<h3 class="text-black years">Years</h3>
-									<h4 class="text-black years-work">Working</h4>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-6 col-md-6 align-self-center">
-							<div class="section-head mb-1">
-								<h2 class="head-title text-black">We are the leader In Construction</h2>
-							</div>
-							<p>Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella, PBR 3 wolf moon beard Helvetica. Salvia Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella, PBR 3 wolf moon beard Helvetica. Salvia </p>
-							<a href="split-slider.php" class="btn black outline outline-2 radius-xl btn-aware m-r10 m-b10">View Portfolio<span></span></a>
-							<a href="company-history.php" class="btn black outline outline-2 radius-xl btn-aware m-b10">Company History<span></span></a>
-						</div>
-					</div>
-				</div>
-			</div>
-            <!-- Project Info End -->
-			<!-- About Us -->
+          <!-- Describe About Me -->
             <div class="section-full content-inner">
-                <div class="container">
-					<div class="row">
-						<div class="col-lg-4 col-md-6 m-b30">
-							<div class="icon-bx-wraper sr-iconbox">
-								<div class="icon-lg m-b20">
-									<a href="javascript:void(0)" class="icon-cell"><img src="images/icon/icon1.png" alt=""></a>
-								</div>
-								<div class="icon-content">
-									<h4 class="dlab-tilte">Interior design</h4>
-									<p>I have worked with many companies offering supplemental industrial services, and out of all those companies </p>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-6 m-b30">
-							<div class="icon-bx-wraper sr-iconbox">
-								<div class="icon-lg m-b20">
-									<a href="javascript:void(0)" class="icon-cell"><img src="images/icon/icon2.png" alt=""></a>
-								</div>
-								<div class="icon-content">
-									<h4 class="dlab-tilte">Architecture</h4>
-									<p>I have worked with many companies offering supplemental industrial services, and out of all those companies </p>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-6 m-b30">
-							<div class="icon-bx-wraper sr-iconbox">
-								<div class="icon-lg m-b20">
-									<a href="javascript:void(0)" class="icon-cell"><img src="images/icon/icon3.png" alt=""></a>
-								</div>
-								<div class="icon-content">
-									<h4 class="dlab-tilte">Product design</h4>
-									<p>I have worked with many companies offering supplemental industrial services, and out of all those companies </p>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-6 m-b30">
-							<div class="icon-bx-wraper sr-iconbox">
-								<div class="icon-lg m-b20">
-									<a href="javascript:void(0)" class="icon-cell"><img src="images/icon/icon4.png" alt=""></a>
-								</div>
-								<div class="icon-content">
-									<h4 class="dlab-tilte">Accreditation</h4>
-									<p>I have worked with many companies offering supplemental industrial services, and out of all those companies </p>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-6 m-b30">
-							<div class="icon-bx-wraper sr-iconbox">
-								<div class="icon-lg m-b20">
-									<a href="javascript:void(0)" class="icon-cell"><img src="images/icon/icon5.png" alt=""></a>
-								</div>
-								<div class="icon-content">
-									<h4 class="dlab-tilte">Foundations</h4>
-									<p>I have worked with many companies offering supplemental industrial services, and out of all those companies </p>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-6 m-b30">
-							<div class="icon-bx-wraper sr-iconbox">
-								<div class="icon-lg m-b20">
-									<a href="javascript:void(0)" class="icon-cell"><img src="images/icon/icon6.png" alt=""></a>
-								</div>
-								<div class="icon-content">
-									<h4 class="dlab-tilte">Enrollment</h4>
-									<p>I have worked with many companies offering supplemental industrial services, and out of all those companies </p>
-								</div>
-							</div>
-						</div>
-					</div>
-                </div>
-            </div>
-			<!-- About Us End -->
-			<!-- Video And GAllery Section -->
-			<div class="section-full bg-white">
 				<div class="container">
 					<div class="row">
-						<div class="col-lg-6">
-							<p class="font-18 section-top-head">Philosophy</p>
-							<div class="section-head">
-								<h2 class="head-title m-b10">All fine architectural values are human values, else not valuable.</h2>
-							</div>
+						<div class="col-lg-8 describe-about-info">
+							<p>Anuj Singh is an Architect and Urban Transport Planner, holding his master’s degree from CEPT
+								University and a bachelor’s degree in Architecture from NIT Trichy. His research and area of
+								expertise revolve around the dynamics of ‘Urban Bus Transport Systems in India through
+								Public- Private Partnership Arrangements’, Parking management systems, development of
+								ICT-based traffic solutions, and Street Design. Anuj has presented his research and project
+								works with IIT Bombay (International Conference) and IIT Gandhinagar (Technical summit).
+								He holds a diverse experience in the field of Architecture and Urban Planning, has worked with
+								GIZ (Think Tank) India- Delhi, KDS Globe Mumbai, L&W Construction Pvt Ltd Bangalore, and is
+								also an independent consultant.</p>
+							<p>He has worked on Transportation economics, finance, strategic solutions, traffic impact
+								assessments, strategic mobility plans, policy, and legislation reviews in the transportation sector.
+								In the field of Architecture, he has worked on mega projects including KIA Industrial plant, IT
+								parks, and other commercials, residential, and interior projects across India.
+								Anuj Singh is a multi-faceted professional who takes interest in exploring the subjects like public
+								transport integration with land use, urban freight- logistics, and urban design, along with
+								advocating clean and safe mobility strategies.</p>
 						</div>
-						<div class="col-lg-6 align-self-center">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent molestie nec nisl eget scelerisque. Quisque placerat suscipit eros, eu tincidunt tellus blandit vel. Donec pellentesque dapibus interdum. Mauris et tellus congue, rutrum neque a, varius felis.s</p>
-						</div>
-					</div>
-					<div class="row our-gallery">
-						<div class="col-lg-12 m-b30 wow fadeIn" data-wow-duration="2s" data-wow-delay="0.4s">
-							<div class="video-bx1 text-white overlay-primary-light">
-								<img src="images/gallery/pic4.jpg" alt="">
-								<div class="video-play">
-									<a href="https://www.youtube.com/watch?v=Dj6CKxQue7U" class="popup-youtube video"><i class="fas fa-play"></i></a>
-									<p class="m-b0">Watch this video </p>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-6 col-md-6 col-sm-6 m-b30 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="0.6s">
-							<a href="javascript:void(0);"><img src="images/gallery/gallery-6/pic1.jpg" alt=""></a>
-						</div>
-						<div class="col-lg-6 col-md-6 col-sm-6 m-b30 wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.8s">
-							<a href="javascript:void(0);"><img src="images/gallery/gallery-6/pic2.jpg" alt=""></a>
+						<div class="col-lg-4 describe-about-info-name">
+							<img src="images/about-us-banner.jpg" alt="">
+							<h2 class="font-weight-600">Ar. ANUJ Singh</h2>
 						</div>
 					</div>
+
+					<div class="row mt-5">
+						<div class="col-lg-4 describe-about-info-name">
+							<img src="images/about-us-banner.jpg" alt="">
+							<h2 class="font-weight-600">Ar. Raj Shobhit</h2>
+						</div>
+
+						<div class="col-lg-8 describe-about-info">
+							
+							<p>Raj Shobhit is a creative and detail oriented Architect holding his Architecture degree from
+								Lovely professional University with about 11 years of experience in designing residential,
+								commercial, Interior and institutional projects.</p> 
+								<p>Proven ability to balance functionality with aesthetic appeal, while ensuring adherence to client requirements, building codes, and
+								sustainability standards. Skilled in leading projects from conceptual design to completion,
+								collaborating with clients, engineers, and contractors to deliver innovative solutions.
+								</p>
+						</div>
+					</div>
+
+					<div class="row mt-5">
+						<div class="col-lg-8 describe-about-info">
+							<p>With over 10 years of experience in the field of 3D design and architectural visualization, he
+								specialize in transforming complex ideas into photorealistic visuals that speak volumes. From
+								high end architectural walkthroughs to immersive interior renderings and real estate marketing
+								content, I bring a refined visual storytelling approach backed by deep technical expertise.
+							</p>
+							<p>As a Visualization Lead, he issuccessfully led teams and collaborated with architects,
+								developers, and creative directors to deliver high-impact visuals for residential, commercial, and
+								institutional projects across India and abroad. My core strengths lie in 3ds Max, V-Ray, Corona
+								Renderer, Lumion, SketchUp, and Adobe Suite, with a strong emphasis on lighting, material
+								accuracy, and camera composition.
+							</p>
+						</div>
+						<div class="col-lg-4 describe-about-info-name">
+							<img src="images/about-us-banner.jpg" alt="">
+							<h2 class="font-weight-600">Abhinaw Tiwari</h2>
+						</div>
+					</div>
+
 				</div>
 			</div>
-			<!-- Video Section END -->
-			<!-- Our Team -->
-			<div class="section-full bg-white content-inner-1 ">
-				<div class="container">
-					<div class="section-head text-center">
-						<h2 class="head-title m-b10">Our Crew Team</h2>
-						<p class="pre-title">Nam non tortor </p>
-					</div>
-					<div class="row">
-						<div class="col-lg-4 col-md-4 col-sm-4 m-b30 wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
-							<div class="our-team">
-								<div class="dlab-media radius-sm">
-									<img src="images/team/our-team/pic1.jpg" alt="">
-								</div>
-								<div class="team-title-bx text-center">
-									<h2 class="team-title">Philip Demarco</h2>
-									<span class="clearfix">founder of agency</span>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-4 col-sm-4 m-b30 wow fadeIn" data-wow-duration="2s" data-wow-delay="0.4s">
-							<div class="our-team">
-								<div class="dlab-media radius-sm">
-									<img src="images/team/our-team/pic2.jpg" alt="">
-								</div>
-								<div class="team-title-bx text-center">
-									<h2 class="team-title">Angelina Johnson</h2>
-									<span class="clearfix">founder of agency</span>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-4 col-sm-4 m-b30 wow fadeIn" data-wow-duration="2s" data-wow-delay="0.6s">
-							<div class="our-team">
-								<div class="dlab-media radius-sm">
-									<img src="images/team/our-team/pic3.jpg" alt="">
-								</div>
-								<div class="team-title-bx text-center">
-									<h2 class="team-title">Philip Demarco</h2>
-									<span class="clearfix">founder of agency</span>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<!-- Our Team END -->
-			<!-- Testimonials -->
-			<div class="section-full bg-white content-inner inner-client" style="background-image:url(images/background/bg4.jpg); background-position:center; background-repeat:no-repeat; background-size: cover;">
-				<div class="container">
-					<div class="section-head text-center">
-						<h2 class="head-title m-b10">Testimonial</h2>
-						<p>High-quality solutions</p>
-					</div>
-					<div class="row">
-						<div class="col-lg-12">
-							<div class="client-box">
-								<div class="testimonial-two-dots-bx owl-carousel owl-btn-center-lr owl-btn-3 owl-theme owl-dots-black-full btn-black owl-loaded owl-drag">
-									<div class="item">
-										<div class="client-says">
-											<div class="testimonial-pic radius">
-												<img src="images/testimonials/pic1.jpg" alt="" width="100" height="100">
-											</div>
-											<div class="testimonial-text">
-												<p>Fusce et justo iaculis, facilisis orci sed, fringilla erat. Integer tincidunt aliquet purus quis tempor. In non est a augue maximus faucibus. Vestibulum arcu eros, tincidunt id porttitor in, pharetra sit amet leo. </p>
-											</div>
-											<div class="testimonial-detail"> 
-												<strong class="testimonial-name">David Matin</strong> 
-												<span class="testimonial-position">Client Form IBM</span> 
-											</div>
-										</div>
-									</div>
-									<div class="item">
-										<div class="client-says">
-											<div class="testimonial-pic radius">
-												<img src="images/testimonials/pic2.jpg" alt="" width="100" height="100">
-											</div>
-											<div class="testimonial-text">
-												<p>Fusce et justo iaculis, facilisis orci sed, fringilla erat. Integer tincidunt aliquet purus quis tempor. In non est a augue maximus faucibus. Vestibulum arcu eros, tincidunt id porttitor in, pharetra sit amet leo. </p>
-											</div>
-											<div class="testimonial-detail"> 
-												<strong class="testimonial-name">David Matin</strong> 
-												<span class="testimonial-position">Client Form IBM</span> 
-											</div>
-										</div>
-									</div>
-									<div class="item">
-										<div class="client-says">
-											<div class="testimonial-pic radius">
-												<img src="images/testimonials/pic3.jpg" alt="" width="100" height="100">
-											</div>
-											<div class="testimonial-text">
-												<p>Fusce et justo iaculis, facilisis orci sed, fringilla erat. Integer tincidunt aliquet purus quis tempor. In non est a augue maximus faucibus. Vestibulum arcu eros, tincidunt id porttitor in, pharetra sit amet leo. </p>
-											</div>
-											<div class="testimonial-detail"> 
-												<strong class="testimonial-name">David Matin</strong> 
-												<span class="testimonial-position">Client Form IBM</span> 
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>	
-			<!-- Testimonials END -->
-			<!-- Our Partners -->
-			<div class="section-full bg-white content-inner-2">
-                <div class="container">
-					<div class="client-logo owl-carousel owl-none">
-						<div class="item">
-							<div class="client-logo-inner">
-								<img alt="" src="images/logo/logo1.jpg">
-							</div>
-						</div>	
-						<div class="item">
-							<div class="client-logo-inner">
-								<img alt="" src="images/logo/logo2.jpg">
-							</div>
-						</div>	
-						<div class="item">
-							<div class="client-logo-inner">
-								<img alt="" src="images/logo/logo3.jpg">
-							</div>
-						</div>	
-						<div class="item">
-							<div class="client-logo-inner">
-								<img alt="" src="images/logo/logo4.jpg">
-							</div>
-						</div>	
-						<div class="item">
-							<div class="client-logo-inner">
-								<img alt="" src="images/logo/logo5.jpg">
-							</div>
-						</div>	
-						<div class="item">
-							<div class="client-logo-inner">
-								<img alt="" src="images/logo/logo6.jpg">
-							</div>
-						</div>	
-					</div>
-				</div>	
-			</div>	
-			<!-- Our Partners END -->
+			<!-- Describe About Me End -->
+
         </div>
 		<!-- contact area END -->
     </div>

@@ -435,7 +435,7 @@
                     <div class="row">
 						<div class="col-lg-12 about-us mb-5">
 							<!-- <h2 class="head-title">Our Mission Is Design & Develop The Best Interior Around</h2> -->
-							<p>Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella, PBR 3 wolf moon beard Helvetica. </p>
+							<p>7 Canvas is a creative design studio based in Meerut, Uttar Pradesh. We bring together different services like architecture, interior design, 3D visualization, city planning, and construction management all under one roof.</p>
 							<!-- <a href="carousel-showcase.php" class="btn black outline outline-2 radius-xl btn-aware m-b10 m-r10">View Portfolio <span></span></a>
 							<a href="company-history.php.php" class="btn black outline outline-2 radius-xl btn-aware m-b10">Company History<span></span></a> -->
 						</div>

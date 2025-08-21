@@ -30,8 +30,8 @@
 					<div class="row">
 						<div class="col-lg-6 col-md-6 wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
 							<div class="video-info">
-								<img src="images/about/pic1.png" alt="">
-								<div class="video-bx2">
+								<img src="images/about/about-us-1.jpeg" alt="">
+								<!-- <div class="video-bx2">
 									<div class="video-play">
 										<a href="https://www.youtube.com/watch?v=Dj6CKxQue7U" class="popup-youtube video"><i class="fas fa-play"></i></a>
 										<p class="text-black text-uppercase m-b0">Play Company video </p>
@@ -39,16 +39,27 @@
 									<h2 class="text-black years-date">26</h2>
 									<h3 class="text-black years">Years</h3>
 									<h4 class="text-black years-work">Working</h4>
-								</div>
+								</div> -->
 							</div>
 						</div>
 						<div class="col-lg-6 col-md-6 align-self-center">
 							<div class="section-head mb-1">
 								<h2 class="head-title text-black">We are the leader In Construction</h2>
 							</div>
-							<p>Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella, PBR 3 wolf moon beard Helvetica. Salvia Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella, PBR 3 wolf moon beard Helvetica. Salvia </p>
-							<a href="split-slider.php" class="btn black outline outline-2 radius-xl btn-aware m-r10 m-b10">View Portfolio<span></span></a>
-							<a href="company-history.php" class="btn black outline outline-2 radius-xl btn-aware m-b10">Company History<span></span></a>
+							<p>7 Canvas is a creative design studio based in Meerut, Uttar Pradesh. We bring together different 
+								services like architecture, interior design, 3D visualization, city planning, and construction 
+								management all under one roof.</p>
+							<p>Our team includes architects, designers, engineers, and planners who work closely together to
+								create smart, beautiful, and long lasting spaces. Whether it’s building a house, designing an
+								office, or planning a whole area, we handle everything from the first idea to the final
+								construction.
+							</p>
+
+							<p>We mix creativity with modern technology to turn your dreams into real, livable spaces that feel
+								just right. With us, you don’t need to go anywhere else we’ve got it all covered.
+							</p>
+							<!-- <a href="split-slider.php" class="btn black outline outline-2 radius-xl btn-aware m-r10 m-b10">View Portfolio<span></span></a> -->
+							<!-- <a href="company-history.php" class="btn black outline outline-2 radius-xl btn-aware m-b10">Company History<span></span></a> -->
 						</div>
 					</div>
 				</div>
@@ -58,14 +69,20 @@
             <div class="section-full content-inner">
                 <div class="container">
 					<div class="row">
+						<div class="section-head mb-1">
+							<h2 class="head-title text-black">Why the name 7 canvas?</h2>
+							<p>The Meaning of 7</p>
+							<p class="mb-5">The number 7 stands for the seven core services we offer:</p>
+						</div>
+
 						<div class="col-lg-4 col-md-6 m-b30">
 							<div class="icon-bx-wraper sr-iconbox">
 								<div class="icon-lg m-b20">
 									<a href="javascript:void(0)" class="icon-cell"><img src="images/icon/icon1.png" alt=""></a>
 								</div>
 								<div class="icon-content">
-									<h4 class="dlab-tilte">Interior design</h4>
-									<p>I have worked with many companies offering supplemental industrial services, and out of all those companies </p>
+									<h4 class="dlab-tilte">Architecture</h4>
+									<!-- <p>I have worked with many companies offering supplemental industrial services, and out of all those companies </p> -->
 								</div>
 							</div>
 						</div>
@@ -75,8 +92,8 @@
 									<a href="javascript:void(0)" class="icon-cell"><img src="images/icon/icon2.png" alt=""></a>
 								</div>
 								<div class="icon-content">
-									<h4 class="dlab-tilte">Architecture</h4>
-									<p>I have worked with many companies offering supplemental industrial services, and out of all those companies </p>
+									<h4 class="dlab-tilte">Interior Design</h4>
+									<!-- <p>I have worked with many companies offering supplemental industrial services, and out of all those companies </p> -->
 								</div>
 							</div>
 						</div>
@@ -86,8 +103,8 @@
 									<a href="javascript:void(0)" class="icon-cell"><img src="images/icon/icon3.png" alt=""></a>
 								</div>
 								<div class="icon-content">
-									<h4 class="dlab-tilte">Product design</h4>
-									<p>I have worked with many companies offering supplemental industrial services, and out of all those companies </p>
+									<h4 class="dlab-tilte">Urban Planning</h4>
+									<!-- <p>I have worked with many companies offering supplemental industrial services, and out of all those companies </p> -->
 								</div>
 							</div>
 						</div>
@@ -97,8 +114,8 @@
 									<a href="javascript:void(0)" class="icon-cell"><img src="images/icon/icon4.png" alt=""></a>
 								</div>
 								<div class="icon-content">
-									<h4 class="dlab-tilte">Accreditation</h4>
-									<p>I have worked with many companies offering supplemental industrial services, and out of all those companies </p>
+									<h4 class="dlab-tilte">Visualization</h4>
+									<!-- <p>I have worked with many companies offering supplemental industrial services, and out of all those companies </p> -->
 								</div>
 							</div>
 						</div>
@@ -108,8 +125,8 @@
 									<a href="javascript:void(0)" class="icon-cell"><img src="images/icon/icon5.png" alt=""></a>
 								</div>
 								<div class="icon-content">
-									<h4 class="dlab-tilte">Foundations</h4>
-									<p>I have worked with many companies offering supplemental industrial services, and out of all those companies </p>
+									<h4 class="dlab-tilte">Construction Management</h4>
+									<!-- <p>I have worked with many companies offering supplemental industrial services, and out of all those companies </p> -->
 								</div>
 							</div>
 						</div>
@@ -119,8 +136,8 @@
 									<a href="javascript:void(0)" class="icon-cell"><img src="images/icon/icon6.png" alt=""></a>
 								</div>
 								<div class="icon-content">
-									<h4 class="dlab-tilte">Enrollment</h4>
-									<p>I have worked with many companies offering supplemental industrial services, and out of all those companies </p>
+									<h4 class="dlab-tilte">Art</h4>
+									<!-- <p>I have worked with many companies offering supplemental industrial services, and out of all those companies </p> -->
 								</div>
 							</div>
 						</div>
@@ -132,31 +149,131 @@
 			<div class="section-full bg-white">
 				<div class="container">
 					<div class="row">
-						<div class="col-lg-6">
-							<p class="font-18 section-top-head">Philosophy</p>
+						<!-- <div class="col-lg-6">
 							<div class="section-head">
 								<h2 class="head-title m-b10">All fine architectural values are human values, else not valuable.</h2>
 							</div>
-						</div>
-						<div class="col-lg-6 align-self-center">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent molestie nec nisl eget scelerisque. Quisque placerat suscipit eros, eu tincidunt tellus blandit vel. Donec pellentesque dapibus interdum. Mauris et tellus congue, rutrum neque a, varius felis.s</p>
+						</div> -->
+						<div class="col-lg-12 align-self-center">
+							<h2 class="head-title text-black">Philosophy of our Organisation</h2>
+							<p>At 7 Canvas, we believe great design goes beyond appearance it should improve how people
+								live, work, and connect with their surroundings. We follow a holistic and collaborative approach,
+								combining architecture, interior design, urban planning, visualization, and construction
+								management into one seamless process.
+							</p>
 						</div>
 					</div>
 					<div class="row our-gallery">
 						<div class="col-lg-12 m-b30 wow fadeIn" data-wow-duration="2s" data-wow-delay="0.4s">
 							<div class="video-bx1 text-white overlay-primary-light">
-								<img src="images/gallery/pic4.jpg" alt="">
+								<!-- <img src="images/gallery/pic4.jpg" alt="">
 								<div class="video-play">
 									<a href="https://www.youtube.com/watch?v=Dj6CKxQue7U" class="popup-youtube video"><i class="fas fa-play"></i></a>
 									<p class="m-b0">Watch this video </p>
-								</div>
+								</div> -->
+
+								<!-- <video src=""></video> -->
+
+								  <div class="main-slider style-two default-banner" id="home">
+									<div class="tp-banner-container">
+										<div class="tp-banner" >
+											<div id="welcome_wrapper" class="rev_slider_wrapper fullscreen-container" data-alias="reveal-add-on36" data-source="gallery" style="background:#ffffff;padding:0px;">
+												<!-- START REVOLUTION SLIDER 5.4.7.2 fullscreen mode -->
+													<div id="welcome" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.4.7.2">
+												<ul>	<!-- SLIDE  -->
+													<li data-index="rs-3015" 
+														data-transition="fade" 
+														data-slotamount="default" 
+														data-hideafterloop="0" 
+														data-hideslideonmobile="off"  
+														data-easein="Power4.easeInOut" 
+														data-easeout="default" 
+														data-masterspeed="2000"
+														data-rotate="0"  
+														data-saveperformance="off"  
+														data-title="Slide" 
+														data-param1="" 
+														data-param2="" 
+														data-param3="" 
+														data-param4="" 
+														data-param5="" 
+														data-param6="" 
+														data-param7="" 
+														data-param8="" 
+														data-param9="" 
+														data-param10="" 
+														data-description="">
+														
+														<!-- MAIN IMAGE -->
+														<img src="video/video.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgparallax="3" class="rev-slidebg" data-no-retina>
+														<!-- LAYERS -->
+														
+														<!-- BACKGROUND VIDEO LAYER -->
+														<div class="rs-background-video-layer" 
+															data-forcerewind="on" 
+															data-volume="mute" 
+															data-videowidth="100%" 
+															data-videoheight="100%" 
+															data-videomp4="video/video.mp4" 
+															data-videopreload="auto" 
+															data-videoloop="none" 
+															data-aspectratio="16:9" 
+															data-autoplay="true" 
+															data-autoplayonlyfirsttime="false" 
+															data-forceCover="1" 
+															data-nextslideatend="true">
+														</div>
+														
+														<!-- LAYER NR. 3 -->
+														<div class="tp-caption tp-shape tp-shapewrapper" 
+															id="slide-3015-layer-1" 
+															data-x="['center','center','center','center']" 
+															data-hoffset="['0','0','0','0']" 
+															data-y="['middle','middle','middle','middle']" 
+															data-voffset="['0','0','0','0']" 
+															data-width="full"
+															data-height="full"
+															data-whitespace="nowrap"
+															data-type="shape" 
+															data-basealign="slide" 
+															data-responsive_offset="off" 
+															data-responsive="off"
+															data-frames='[{"from":"opacity:0;","speed":1500,"to":"o:1;","delay":0,"ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"to":"opacity:0;","ease":"nothing"}]'
+															data-textAlign="['left','left','left','left']"
+															data-paddingtop="[0,0,0,0]"
+															data-paddingright="[0,0,0,0]"
+															data-paddingbottom="[0,0,0,0]"
+															data-paddingleft="[0,0,0,0]"
+															style="z-index: 1; background-color:rgba(0, 0, 0, 0.5);border-color:rgba(0, 0, 0, 0);border-width:0px;">
+														</div>
+														
+														<!-- LAYER NR. 1 -->
+														<div class="tp-caption tp-shape tp-shapewrapper ov-tp " 
+															id="slide-100-layer-1" 
+															data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+															data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" 
+															data-width="full"
+															data-height="full"
+															data-whitespace="nowrap"
+															data-type="shape" 
+															data-basealign="slide" 
+															data-responsive_offset="off" 
+															data-responsive="off"
+															data-frames='[{"delay":10,"speed":1000,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":1500,"frame":"999","to":"opacity:0;","ease":"Power4.easeIn"}]'
+															data-textAlign="['inherit','inherit','inherit','inherit']"
+															data-paddingtop="[0,0,0,0]"
+															data-paddingright="[0,0,0,0]"
+															data-paddingbottom="[0,0,0,0]"
+															data-paddingleft="[0,0,0,0]"
+															style="z-index: 5;font-family:Open Sans;"></div>
+													</li>
+												</ul>
+												<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+											</div><!-- END REVOLUTION SLIDER -->     
+										</div>        
+									</div>        
+								</div>    
 							</div>
-						</div>
-						<div class="col-lg-6 col-md-6 col-sm-6 m-b30 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="0.6s">
-							<a href="javascript:void(0);"><img src="images/gallery/gallery-6/pic1.jpg" alt=""></a>
-						</div>
-						<div class="col-lg-6 col-md-6 col-sm-6 m-b30 wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.8s">
-							<a href="javascript:void(0);"><img src="images/gallery/gallery-6/pic2.jpg" alt=""></a>
 						</div>
 					</div>
 				</div>
@@ -166,8 +283,8 @@
 			<div class="section-full bg-white content-inner-1 ">
 				<div class="container">
 					<div class="section-head text-center">
-						<h2 class="head-title m-b10">Our Crew Team</h2>
-						<p class="pre-title">Nam non tortor </p>
+						<h2 class="head-title m-b10">Our core values</h2>
+						<!-- <p class="pre-title">Nam non tortor </p> -->
 					</div>
 					<div class="row">
 						<div class="col-lg-4 col-md-4 col-sm-4 m-b30 wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
@@ -176,8 +293,8 @@
 									<img src="images/team/our-team/pic1.jpg" alt="">
 								</div>
 								<div class="team-title-bx text-center">
-									<h2 class="team-title">Philip Demarco</h2>
-									<span class="clearfix">founder of agency</span>
+									<h2 class="team-title">Integration</h2>
+									<span class="clearfix">Bringing disciplines together to create unified, intelligent designs.</span>
 								</div>
 							</div>
 						</div>
@@ -187,8 +304,8 @@
 									<img src="images/team/our-team/pic2.jpg" alt="">
 								</div>
 								<div class="team-title-bx text-center">
-									<h2 class="team-title">Angelina Johnson</h2>
-									<span class="clearfix">founder of agency</span>
+									<h2 class="team-title">Function & Form</h2>
+									<span class="clearfix">Designing spaces that are both practical and aesthetically impactful.</span>
 								</div>
 							</div>
 						</div>
@@ -198,8 +315,8 @@
 									<img src="images/team/our-team/pic3.jpg" alt="">
 								</div>
 								<div class="team-title-bx text-center">
-									<h2 class="team-title">Philip Demarco</h2>
-									<span class="clearfix">founder of agency</span>
+									<h2 class="team-title">Detail Driven</h2>
+									<span class="clearfix">Every element matters from concept to completion.</span>
 								</div>
 							</div>
 						</div>
@@ -207,66 +324,7 @@
 				</div>
 			</div>
 			<!-- Our Team END -->
-			<!-- Testimonials -->
-			<div class="section-full bg-white content-inner inner-client" style="background-image:url(images/background/bg4.jpg); background-position:center; background-repeat:no-repeat; background-size: cover;">
-				<div class="container">
-					<div class="section-head text-center">
-						<h2 class="head-title m-b10">Testimonial</h2>
-						<p>High-quality solutions</p>
-					</div>
-					<div class="row">
-						<div class="col-lg-12">
-							<div class="client-box">
-								<div class="testimonial-two-dots-bx owl-carousel owl-btn-center-lr owl-btn-3 owl-theme owl-dots-black-full btn-black owl-loaded owl-drag">
-									<div class="item">
-										<div class="client-says">
-											<div class="testimonial-pic radius">
-												<img src="images/testimonials/pic1.jpg" alt="" width="100" height="100">
-											</div>
-											<div class="testimonial-text">
-												<p>Fusce et justo iaculis, facilisis orci sed, fringilla erat. Integer tincidunt aliquet purus quis tempor. In non est a augue maximus faucibus. Vestibulum arcu eros, tincidunt id porttitor in, pharetra sit amet leo. </p>
-											</div>
-											<div class="testimonial-detail"> 
-												<strong class="testimonial-name">David Matin</strong> 
-												<span class="testimonial-position">Client Form IBM</span> 
-											</div>
-										</div>
-									</div>
-									<div class="item">
-										<div class="client-says">
-											<div class="testimonial-pic radius">
-												<img src="images/testimonials/pic2.jpg" alt="" width="100" height="100">
-											</div>
-											<div class="testimonial-text">
-												<p>Fusce et justo iaculis, facilisis orci sed, fringilla erat. Integer tincidunt aliquet purus quis tempor. In non est a augue maximus faucibus. Vestibulum arcu eros, tincidunt id porttitor in, pharetra sit amet leo. </p>
-											</div>
-											<div class="testimonial-detail"> 
-												<strong class="testimonial-name">David Matin</strong> 
-												<span class="testimonial-position">Client Form IBM</span> 
-											</div>
-										</div>
-									</div>
-									<div class="item">
-										<div class="client-says">
-											<div class="testimonial-pic radius">
-												<img src="images/testimonials/pic3.jpg" alt="" width="100" height="100">
-											</div>
-											<div class="testimonial-text">
-												<p>Fusce et justo iaculis, facilisis orci sed, fringilla erat. Integer tincidunt aliquet purus quis tempor. In non est a augue maximus faucibus. Vestibulum arcu eros, tincidunt id porttitor in, pharetra sit amet leo. </p>
-											</div>
-											<div class="testimonial-detail"> 
-												<strong class="testimonial-name">David Matin</strong> 
-												<span class="testimonial-position">Client Form IBM</span> 
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>	
-			<!-- Testimonials END -->
+	
 			<!-- Our Partners -->
 			<div class="section-full bg-white content-inner-2">
                 <div class="container">

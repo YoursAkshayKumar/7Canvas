@@ -39,7 +39,7 @@
 								</div>
 								<div class="icon-content">
 									<h4 class="dlab-tilte m-b5">Phone</h4>
-									<p>Phone 01:(+032) 3456 7890 <br> Phone 02: (+032) 3427 7670</p>
+									<p>Phone +91 78957 15406</p>
 								</div>
 							</div>
 						</div>
@@ -52,7 +52,7 @@
 								</div>
 								<div class="icon-content">
 									<h4 class="dlab-tilte m-b5">Address</h4>
-									<p>Spring Store London Oxford Street, 012 United Kingdom</p>
+									<p>MSEVEN COMPLEX, First Floor, Shop 15, A Block, Pallavpuram, Meerut, Uttar Pradesh 250110</p>
 								</div>
 							</div>
 						</div>
@@ -65,7 +65,7 @@
 								</div>
 								<div class="icon-content">
 									<h4 class="dlab-tilte m-b5">Email</h4>
-									<p>Supportstore@msimple.net <br> Info@Simplenet.net</p>
+									<p>info@7canvas.in<br>Support@7canvas.in </p>
 								</div>
 							</div>
 						</div>
@@ -73,7 +73,7 @@
 				
 					<div class="section-head text-center">
 						<h2 class="m-b5">Get in touch with us</h2>
-						<p>Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8</p>
+						<!-- <p>Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8</p> -->
 					</div>
 					<div class="dzFormMsg"></div>
 					<form method="post" class="dzForm" action="script/contact_smtp.php">

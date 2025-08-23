@@ -12,7 +12,7 @@
 						<!-- START REVOLUTION SLIDER 5.4.7.2 fullscreen mode -->
 							<div id="welcome" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.4.7.2">
 						<ul>	<!-- SLIDE  -->
-							<li data-index="rs-3015" 
+							<!-- <li data-index="rs-3015" 
 								data-transition="fade" 
 								data-slotamount="default" 
 								data-hideafterloop="0" 
@@ -35,11 +35,11 @@
 								data-param10="" 
 								data-description="">
 								
-								<!-- MAIN IMAGE -->
+						
 								<img src="video/video.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgparallax="3" class="rev-slidebg" data-no-retina>
-								<!-- LAYERS -->
+							
 								
-								<!-- BACKGROUND VIDEO LAYER -->
+						
 								<div class="rs-background-video-layer" 
 									data-forcerewind="on" 
 									data-volume="mute" 
@@ -55,7 +55,7 @@
 									data-nextslideatend="true">
 								</div>
 								
-								<!-- LAYER NR. 3 -->
+							
 								<div class="tp-caption tp-shape tp-shapewrapper" 
 									id="slide-3015-layer-1" 
 									data-x="['center','center','center','center']" 
@@ -78,7 +78,7 @@
 									style="z-index: 1; background-color:rgba(0, 0, 0, 0.5);border-color:rgba(0, 0, 0, 0);border-width:0px;">
 								</div>
 								
-								<!-- LAYER NR. 1 -->
+							
 								<div class="tp-caption tp-shape tp-shapewrapper ov-tp " 
 									id="slide-100-layer-1" 
 									data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
@@ -96,7 +96,7 @@
 									data-paddingright="[0,0,0,0]"
 									data-paddingbottom="[0,0,0,0]"
 									data-paddingleft="[0,0,0,0]"
-									style="z-index: 5;font-family:Open Sans;"></div>
+									style="z-index: 5;font-family:Open Sans;"></div> -->
 									
 								<!-- LAYER NR. 2 -->
 								<!-- <div class="tp-caption  " 
@@ -193,10 +193,128 @@
 										View Portfolio
 								</a>
 								 -->
+							<!-- </li> -->
+
+							<li data-index="rs-200" data-transition="fadethroughdark" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb=""  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+								<!-- MAIN IMAGE -->
+								<img src="images/home-banner-1.jpg"  alt=""  data-lazyload="images/home-banner-1.jpg" data-bgposition="center center" data-kenburns="on" data-duration="4000" data-ease="Power3.easeInOut" data-scalestart="150" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-blurstart="0" data-blurend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="4" class="rev-slidebg" data-no-retina>
+								<!-- LAYERS -->
+								<!-- LAYER NR. 1 -->
+								<div class="tp-caption tp-shape tp-shapewrapper ov-tp " 
+									id="slide-200-layer-1" 
+									data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+									data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" 
+									data-width="full"
+									data-height="full"
+									data-whitespace="nowrap"
+									data-type="shape" 
+									data-basealign="slide" 
+									data-responsive_offset="off" 
+									data-responsive="off"
+									data-frames='[{"delay":10,"speed":1000,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":1500,"frame":"999","to":"opacity:0;","ease":"Power4.easeIn"}]'
+									data-textAlign="['inherit','inherit','inherit','inherit']"
+									data-paddingtop="[0,0,0,0]"
+									data-paddingright="[0,0,0,0]"
+									data-paddingbottom="[0,0,0,0]"
+									data-paddingleft="[0,0,0,0]"
+									style="z-index: 5;font-family:Open Sans;">
+								</div>
+								<!-- LAYER NR. 2 -->
+								<!-- <div class="tp-caption  " 
+									id="slide-200-layer-2" 
+									data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+									data-y="['middle','middle','middle','middle']" data-voffset="['-40','-80','-70','-70']" 
+									data-fontsize="['63','63','40','24']"
+									data-lineheight="['90','80','70','60']"
+									data-letterspacing="['0','0','0','0']"
+									data-width="['1000','none','768','360']"
+									data-height="none"
+									data-whitespace="['normal','nowrap','normal','normal']"
+									data-type="text" 
+									data-responsive_offset="off" 
+									data-responsive="off"
+									data-frames='[{"delay":900,"speed":2000,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:1.1;sY:1.1;skX:0;skY:0;opacity:0;","color":"#000000","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"frame":"999","color":"#000000","to":"opacity:0;","ease":"nothing"}]'
+									data-textAlign="['center','left','center','center']"
+									data-paddingtop="[0,0,0,0]"
+									data-paddingright="[10,10,0,0]"
+									data-paddingbottom="[0,0,0,0]"
+									data-paddingleft="[0,0,0,0]"
+									style="z-index: 6; min-width: 800px; max-width: 800px; font-weight: 700; white-space: normal; color: #ffffff; font-family: poppins;">
+										Industrial style Apartment
+								</div> -->
+								<!-- LAYER NR. 3 -->
+								<!-- <div class="tp-caption  " 
+									id="slide-200-layer-3" 
+									data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+									data-y="['middle','middle','middle','middle']" data-voffset="['50','20','10','10']" 
+									data-fontsize="['16','16','16','14']"
+									data-lineheight="['30','30','25','22']"
+									data-color="['rgba(255,255,255,0.75)','rgba(255,255,255,0.65)','rgba(255,255,255,0.65)','rgba(255,255,255,0.65)']"
+									data-width="['640','481','500','260']"
+									data-height="none"
+									data-whitespace="normal"
+									data-type="text" 
+									data-responsive_offset="off" 
+									data-responsive="off"
+									data-frames='[{"delay":900,"speed":2000,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:1.1;sY:1.1;skX:0;skY:0;opacity:0;","color":"#000000","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"frame":"999","color":"#000000","to":"opacity:0;","ease":"nothing"}]'
+									data-textAlign="['center','center','center','center']"
+									data-paddingtop="[0,0,0,0]"
+									data-paddingright="[0,0,0,0]"
+									data-paddingbottom="[0,0,0,0]"
+									data-paddingleft="[0,0,0,0]"
+									style="z-index: 7; min-width: 640px; max-width: 640px; white-space: normal; font-size: 16px; line-height: 30px; font-weight: 400; color: rgba(255,255,255,0.75); font-family:'Montserrat',sans-serif;">
+										Praesent pharetra orci odio, ut mattis tellus ullamcorper ornare. Suspendisse ullamcorper metus in erat viverra,
+								</div> -->
+								<!-- LAYER NR. 5 -->
+								<!-- <a class="tp-caption rev-btn tc-btnshadow" 
+									href="contact-us-2.php" target="_blank"			 
+									id="slide-200-layer-4" 
+									data-x="['center','center','center','center']" data-hoffset="['-110','-110','-110','0']" 
+									data-y="['middle','middle','middle','middle']" data-voffset="['140','140','100','100']" 
+									data-lineheight="['60','60','50','50']"
+									data-width="['200','200','200','150']"
+									data-height="none"
+									data-whitespace="nowrap"
+									data-type="button" 
+									data-actions=''
+									data-responsive_offset="off" 
+									data-responsive="off"
+									data-frames='[{"delay":900,"speed":2000,"frame":"0","from":"y:50px;z:0;rX:0;rY:0;rZ:0;sX:1.1;sY:1.1;skX:0;skY:0;opacity:0;fbr:100;","bgcolor":"#fff","to":"o:1;fbr:100;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"frame":"999","bgcolor":"#fff","to":"opacity:0;fbr:100;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"150","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;fbr:90%;","style":"c:rgba(255,255,255,0.8);"}]'
+									data-textAlign="['center','center','center','center']"
+									data-paddingtop="[0,0,0,0]"
+									data-paddingright="[30,30,20,20]"
+									data-paddingbottom="[0,0,0,0]"
+									data-paddingleft="[30,30,20,20]"
+									style="z-index: 9; min-width: 280px; max-width: 280px; letter-spacing: 2px; white-space: nowrap; font-size: 11px; line-height: 20px; font-weight: 600; color: #fff; font-family: poppins; background-color: rgba(0,0,0,0); border-radius:30px 30px 30px 30px; border: 2px solid #fff; box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box; cursor:pointer; text-decoration: none; text-transform: uppercase;">
+										Contact us
+								</a> -->
+								<!-- LAYER NR. 5 -->
+								<!-- <a class="tp-caption rev-btn tc-btnshadow" 
+									href="split-slider.php" target="_blank"			 
+									id="slide-200-layer-5" 
+									data-x="['center','center','center','center']" data-hoffset="['110','110','110','0']" 
+									data-y="['middle','middle','middle','middle']" data-voffset="['140','140','100','170']" 
+									data-lineheight="['60','60','50','50']"
+									data-width="['200','200','200','180']"
+									data-height="none"
+									data-whitespace="nowrap"
+									data-type="button" 
+									data-actions=''
+									data-responsive_offset="off" 
+									data-responsive="off"
+									data-frames='[{"delay":900,"speed":2000,"frame":"0","from":"y:50px;z:0;rX:0;rY:0;rZ:0;sX:1.1;sY:1.1;skX:0;skY:0;opacity:0;fbr:100;","bgcolor":"#fff","to":"o:1;fbr:100;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"frame":"999","bgcolor":"#fff","to":"opacity:0;fbr:100;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"150","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;fbr:90%;","style":"c:rgba(255,255,255,0.8);"}]'
+									data-textAlign="['center','center','center','center']"
+									data-paddingtop="[0,0,0,0]"
+									data-paddingright="[30,30,20,20]"
+									data-paddingbottom="[0,0,0,0]"
+									data-paddingleft="[30,30,20,20]"
+									style="z-index: 9; min-width: 280px; max-width: 280px; letter-spacing: 2px; white-space: nowrap; font-size: 11px; line-height: 20px; font-weight: 600; color: #fff; font-family: poppins; background-color: rgba(0,0,0,0); border-radius:30px 30px 30px 30px; border: 2px solid #fff; box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box; cursor:pointer; text-decoration: none; text-transform: uppercase;">
+										View Portfolio
+								</a> -->
 							</li>
 							<li data-index="rs-200" data-transition="fadethroughdark" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb=""  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 								<!-- MAIN IMAGE -->
-								<img src="images/home-banner.jpg"  alt=""  data-lazyload="images/home-banner.jpg" data-bgposition="center center" data-kenburns="on" data-duration="4000" data-ease="Power3.easeInOut" data-scalestart="150" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-blurstart="0" data-blurend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="4" class="rev-slidebg" data-no-retina>
+								<img src="images/home-banner-2.jpg"  alt=""  data-lazyload="images/home-banner-2.jpg" data-bgposition="center center" data-kenburns="on" data-duration="4000" data-ease="Power3.easeInOut" data-scalestart="150" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-blurstart="0" data-blurend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="4" class="rev-slidebg" data-no-retina>
 								<!-- LAYERS -->
 								<!-- LAYER NR. 1 -->
 								<div class="tp-caption tp-shape tp-shapewrapper ov-tp " 
@@ -325,7 +443,7 @@
                 <div class="container">
                     <div class="section-head text-center">
 						<h2 class="head-title text-blue-dark m-b10">Explore Projects</h2>
-						<p class="pre-title">Nam non tortor </p>
+						<!-- <p class="pre-title">Nam non tortor </p> -->
 					</div>
 					<ul id="masonry" class="dlab-gallery-listing gallery mfp-gallery explore-projects text-center row p-l0" >
 						<li class="card-container col-lg-6 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="0.4s"  data-wow-duration="2s">

@@ -91,21 +91,21 @@
 					<div class="col-xl-3 col-lg-4 col-md-4">
 						<div class="widget widget-info">
 							<h6 class="title text-primary text-uppercase">Call us</h6>
-							<p><span class="font-weight-600">Phone:</span>  +1 564 345-750-421</p>
-							<p><span class="font-weight-600">Fax:</span>  +1 564 354-755-432</p>
+							<p><span class="font-weight-600">Phone:</span>+91 78957 15406</p>
+							<p><span class="font-weight-600">Fax:</span>+91 78957 15406</p>
 						</div>
 					</div>
 					<div class="col-xl-3 col-lg-4 col-md-4">
 						<div class="widget widget-info">
 							<h6 class="title text-primary text-uppercase">Write us</h6>
-							<p>support@youremail.com</p>
-							<p>info@example.com</p>
+							<p>Support@7canvas.in</p>
+							<p>info@7canvas.in</p>
 						</div>
 					</div>
 					<div class="col-xl-3 col-lg-4 col-md-4">
 						<div class="widget widget-info">
 							<h6 class="title text-primary text-uppercase">Our address</h6>
-							<p>PO Box 16122 Collins Street West Victoria 8007 Australia</p>
+							<p>MSEVEN COMPLEX, First Floor, Shop 15, A Block, Pallavpuram, Meerut, Uttar Pradesh 250110</p>
 						</div>
 					</div>
 				</div>

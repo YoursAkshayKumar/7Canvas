@@ -44,7 +44,7 @@
 						</div>
 						<div class="col-lg-6 col-md-6 align-self-center">
 							<div class="section-head mb-1">
-								<h2 class="head-title text-black">We are the leader In Construction</h2>
+								<h2 class="head-title text-black text-center">We are the leader In Construction</h2>
 							</div>
 							<p>7 Canvas is a creative design studio based in Meerut, Uttar Pradesh. We bring together different 
 								services like architecture, interior design, 3D visualization, city planning, and construction 
@@ -66,16 +66,16 @@
 			</div>
             <!-- Project Info End -->
 			<!-- About Us -->
-            <div class="section-full content-inner">
+            <div class="section-full content-inner bg-gray">
                 <div class="container">
 					<div class="row">
 						<div class="section-head mb-1">
-							<h2 class="head-title text-black">Why the name 7 canvas?</h2>
-							<p>The Meaning of 7</p>
-							<p class="mb-5">The number 7 stands for the seven core services we offer:</p>
+							<h2 class="head-title text-black text-center">Why the name 7 canvas?</h2>
+							<!-- <p>The Meaning of 7</p>
+							<p class="mb-5">The number 7 stands for the seven core services we offer:</p> -->
 						</div>
 
-						<div class="col-lg-4 col-md-6 m-b30">
+						<div class="col-lg-3 col-md-6 m-b30">
 							<div class="icon-bx-wraper sr-iconbox">
 								<div class="icon-lg m-b20">
 									<a href="javascript:void(0)" class="icon-cell"><img src="images/icon/icon1.png" alt=""></a>
@@ -86,7 +86,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-lg-4 col-md-6 m-b30">
+						<div class="col-lg-3 col-md-6 m-b30">
 							<div class="icon-bx-wraper sr-iconbox">
 								<div class="icon-lg m-b20">
 									<a href="javascript:void(0)" class="icon-cell"><img src="images/icon/icon2.png" alt=""></a>
@@ -97,7 +97,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-lg-4 col-md-6 m-b30">
+						<div class="col-lg-3 col-md-6 m-b30">
 							<div class="icon-bx-wraper sr-iconbox">
 								<div class="icon-lg m-b20">
 									<a href="javascript:void(0)" class="icon-cell"><img src="images/icon/icon3.png" alt=""></a>
@@ -108,7 +108,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-lg-4 col-md-6 m-b30">
+						<div class="col-lg-3 col-md-6 m-b30">
 							<div class="icon-bx-wraper sr-iconbox">
 								<div class="icon-lg m-b20">
 									<a href="javascript:void(0)" class="icon-cell"><img src="images/icon/icon4.png" alt=""></a>
@@ -141,6 +141,17 @@
 								</div>
 							</div>
 						</div>
+						<div class="col-lg-4 col-md-6 m-b30">
+							<div class="icon-bx-wraper sr-iconbox">
+								<div class="icon-lg m-b20">
+									<a href="javascript:void(0)" class="icon-cell"><img src="images/icon/icon6.png" alt=""></a>
+								</div>
+								<div class="icon-content">
+									<h4 class="dlab-tilte">Technology</h4>
+									<!-- <p>I have worked with many companies offering supplemental industrial services, and out of all those companies </p> -->
+								</div>
+							</div>
+						</div>
 					</div>
                 </div>
             </div>
@@ -154,9 +165,9 @@
 								<h2 class="head-title m-b10">All fine architectural values are human values, else not valuable.</h2>
 							</div>
 						</div> -->
-						<div class="col-lg-12 align-self-center">
-							<h2 class="head-title text-black">Philosophy of our Organisation</h2>
-							<p>At 7 Canvas, we believe great design goes beyond appearance it should improve how people
+						<div class="col-lg-12 align-self-center mt-5">
+							<h2 class="head-title text-black text-center">Philosophy of our Organisation</h2>
+							<p class="text-center">At 7 Canvas, we believe great design goes beyond appearance it should improve how people
 								live, work, and connect with their surroundings. We follow a holistic and collaborative approach,
 								combining architecture, interior design, urban planning, visualization, and construction
 								management into one seamless process.

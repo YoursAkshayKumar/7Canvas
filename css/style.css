@@ -10582,7 +10582,9 @@ ul[class*="list-"]{
 .dlab-media img,
 .dlab-post-media img {
     width: 100%;
-    height: auto;
+    height: 100%;
+    object-fit: cover;
+    /* height: auto; */
 }
 /* Box Background */
 .dlab-box-bg{
@@ -16646,4 +16648,27 @@ span.sub-head{
 
 .describe-about-info-name h2{
     font-size: 22px !important;
+}
+
+.section-head .head-title{
+    font-size: 35px !important;
+    line-height: 45px !important;
+}
+
+.bg-gray {
+    background-color: #d2d3d463 !important;
+}
+
+.icon-bx-wraper{
+    text-align: center !important;
+}
+
+.sr-iconbox .icon-lg {
+    text-align: center !important;
+}
+
+.portbox2 .dlab-media, .portbox1 {
+    border-radius: 4px;
+    margin-bottom: 30px;
+    max-height: 300px;
 }

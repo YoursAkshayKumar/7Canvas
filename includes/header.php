@@ -43,7 +43,7 @@
 									<div  class="contact-info">
 										<i class="fas fa-phone-alt"></i>
 										<span>Phone</span>
-										<h4 class="m-b0">003 746 87 92</h4>
+										<h4 class="m-b0">+91 78957 15406</h4>
 									</div>
 								</li>
 								<li>
